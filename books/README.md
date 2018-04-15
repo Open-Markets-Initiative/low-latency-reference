@@ -1,12 +1,11 @@
-## Omi Latency Reference
-Links to low latency programming books 
+## Latency Reference Books
 
-## Programming Books
+## Programming
 
-[C++ Book List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) - Consensus C++ book list
+Consensus C++ book list: [C++ Book List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) 
 
-[Stl](http://cppstdlib.com) - Stl reference...super important
+Stl reference...super important: [Stl](http://cppstdlib.com)
 
 ## Other
 
-[Flash Boys](https://en.wikipedia.org/wiki/Flash_Boys) - Sensationalist book about hft trading
+Sensationalist book about hft trading: [Flash Boys](https://en.wikipedia.org/wiki/Flash_Boys)

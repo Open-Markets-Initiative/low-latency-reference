@@ -1,3 +1,3 @@
-## Omi Latency Reference
-Pdfs low latency programming
+## Latency Reference Pdfs
+Pdfs for low latency programming
 
