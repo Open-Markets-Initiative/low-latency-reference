@@ -10,7 +10,7 @@ Optimization wisdom: [ItHare](http://ithare.com/c-performance-common-wisdoms-and
 
 ## Code Style
 
-Fluent C++ by Jonathan Boccara. Blog dedicated to using modern 'fluent' style c++.  Mentions strong types and the importance of knowing stl. [Fluent C++](http://www.fluentcpp.com/) 
+[Fluent C++](http://www.fluentcpp.com/) by Jonathan Boccara. Excellent blog dedicated to using modern 'fluent' style C++.  Very good examples of strong types and the importance of knowing Stl.
 
-Clean code by Robert Martin. Optimization is direct correlated to code flexibility and the speed of iteration.  Omi developers are strong believes that clean code is a requirement for fast code. [Clean Code](http://blog.cleancoder.com/)
+[Clean Code](http://blog.cleancoder.com/) by Robert Martin. Omi developers are strong believes that clean code is a requirement for fast code.  Optimization is directly correlated to code flexibility and the speed of iteration.
 
