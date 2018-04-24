@@ -2,11 +2,11 @@
 
 ## Optimization
 
-Programming to the hardware: [Mechanical Sympathy](https://mechanical-sympathy.blogspot.com/) 
+[Mechanical Sympathy] (https://mechanical-sympathy.blogspot.com/) by Martin Thompson.  Examples of hardware and software working together.
 
-Tested optimization: [Agner Fog](http://agner.org/optimize)
+[Optimization Resources](http://agner.org/optimize) by Agner Fog.  In depth studies of optimization and modern computing architecture. 
 
-Optimization wisdom: [ItHare](http://ithare.com/c-performance-common-wisdoms-and-common-wisdoms)
+[ItHare](http://ithare.com/c-performance-common-wisdoms-and-common-wisdoms) by Sergey Ignatchenko. C++ performance in the development of multiplayer online games. 
 
 ## Code Style
 
