@@ -2,20 +2,23 @@
 
 A repository of information for developing low latency applications
 
-### [Articles](https://github.com/Open-Markets-Initiative/latency-reference/tree/master/articles)
+## Contents
 
-### [Books](https://github.com/Open-Markets-Initiative/latency-reference/tree/master/books)
+#### [Articles](https://github.com/Open-Markets-Initiative/latency-reference/tree/master/articles)
 
-### [Pdfs](https://github.com/Open-Markets-Initiative/latency-reference/tree/master/pdfs)
+#### [Books](https://github.com/Open-Markets-Initiative/latency-reference/tree/master/books)
 
-### [Videos](https://github.com/Open-Markets-Initiative/latency-reference/tree/master/videos)
+#### [Pdfs](https://github.com/Open-Markets-Initiative/latency-reference/tree/master/pdfs)
 
-If any information is in violation of copyright please let us know and we will remove it.
+#### [Videos](https://github.com/Open-Markets-Initiative/latency-reference/tree/master/videos)
 
 ## Disclaimer
 
 The Open Markets Initiative (Omi) is a group of technologists dedicated to 
 enhancing the stability of electronic financial markets using modern 
 development methods.
+
+If any information is in violation of copyright please let us know and we will remove it.
+
 
 Enjoy.
