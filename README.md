@@ -2,11 +2,11 @@
 
 A repository of information for developing low latency applications
 
-* #### [Articles](https://github.com/Open-Markets-Initiative/latency-reference/tree/master/articles)
-* #### [Books](https://github.com/Open-Markets-Initiative/latency-reference/tree/master/books)
-* #### [Links](https://github.com/Open-Markets-Initiative/latency-reference/tree/master/links)  
-* #### [Pdfs](https://github.com/Open-Markets-Initiative/latency-reference/tree/master/pdfs)   
-* #### [Videos](https://github.com/Open-Markets-Initiative/latency-reference/tree/master/videos)
+1. #### [Articles](https://github.com/Open-Markets-Initiative/latency-reference/tree/master/articles "Low Latency Articles and Blogs")
+2. #### [Books](https://github.com/Open-Markets-Initiative/latency-reference/tree/master/books "Important Low Latency Books and References")
+3. #### [Links](https://github.com/Open-Markets-Initiative/latency-reference/tree/master/links)  
+4. #### [Pdfs](https://github.com/Open-Markets-Initiative/latency-reference/tree/master/pdfs)   
+5. #### [Videos](https://github.com/Open-Markets-Initiative/latency-reference/tree/master/videos)
 
 ## Disclaimer
 
