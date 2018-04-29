@@ -4,9 +4,7 @@ A repository of information for developing low latency applications
 
 ## Contents
 
-#### [Articles](https://github.com/Open-Markets-Initiative/latency-reference/tree/master/articles)
-
-#### [Books](https://github.com/Open-Markets-Initiative/latency-reference/tree/master/books)
+#### [Articles](https://github.com/Open-Markets-Initiative/latency-reference/tree/master/articles)  [Books](https://github.com/Open-Markets-Initiative/latency-reference/tree/master/books)
 
 #### [Pdfs](https://github.com/Open-Markets-Initiative/latency-reference/tree/master/pdfs)
 
