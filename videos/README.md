@@ -1,5 +1,3 @@
-## Omi Latency Reference Videos
-
 ## Optimization
 
 [Lmax Disruptor](https://www.youtube.com/watch?v=DCdGlxBbKU4) by Trisha Gee & Mike Barker.  Using the Disruptor as an example, this talk explains some of the more detailed and less understood areas of concurrency, such as memory barriers and cache coherency. 
@@ -8,7 +6,7 @@
 
 [High Performance Trading](https://www.youtube.com/watch?v=NH1Tta7purM) by Carl Cook.  This talk describes how successful low latency trading systems can be developed in C++, demonstrating common coding techniques used to reduce execution times.
 
-[Compiler Explorer](https://www.youtube.com/watch?v=bSkpMdDe4g4) by Matt Godbolt.  Appreciate how hard your compiler works for.
+[Compiler Explorer](https://www.youtube.com/watch?v=bSkpMdDe4g4) by Matt Godbolt.  Appreciate how hard your compiler works for you.
 
 ## Code Style
 
