@@ -1,4 +1,4 @@
-## Optimization
+## Optimization Videos
 
 [Lmax Disruptor](https://www.youtube.com/watch?v=DCdGlxBbKU4) by Trisha Gee & Mike Barker.  Using the Disruptor as an example, this talk explains some of the more detailed and less understood areas of concurrency, such as memory barriers and cache coherency. 
 
@@ -8,7 +8,7 @@
 
 [Compiler Explorer](https://www.youtube.com/watch?v=bSkpMdDe4g4) by Matt Godbolt.  Appreciate how hard your compiler works for you.
 
-## Code Style
+## Code Style Videos
 
 [C++ Seasoning](https://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning) by Sean Parent.  With the goal of correctness in mind, create simple, clear, and beautiful code. 
 
