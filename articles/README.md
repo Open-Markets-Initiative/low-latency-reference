@@ -18,3 +18,4 @@
 
 [Clean Code](http://blog.cleancoder.com/) by Robert Martin. Omi developers are strong believers that clean code is a requirement of fast code: Optimization is directly correlated to code flexibility and the speed of iteration.
 
+[Guru of the Week](https://herbsutter.com/gotw/) By Herb Sutter. Guru of the Week (GotW) is a series of C++ programming problems about the nuance of the language.
