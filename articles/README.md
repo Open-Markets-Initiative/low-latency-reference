@@ -18,4 +18,8 @@
 
 [Guru of the Week](https://herbsutter.com/gotw/) By Herb Sutter. Guru of the Week (GotW) is a series of C++ programming problems about the nuance of the language.
 
+## Other Articles and Blogs
+
 [Software Leadership](http://joeduffyblog.com/) By Joe Duffy. Performance is one of the key pillars of software engineering, and is something that’s hard to do right, and sometimes even difficult to recognize. 
+
+[Sniper in Mahwah](https://sniperinmahwah.wordpress.com/) By Alexandre Laumonier. Blog on specialist low latency networking. 
