@@ -24,4 +24,4 @@
 
 [Sniper in Mahwah](https://sniperinmahwah.wordpress.com/) by Alexandre Laumonier. Blog on specialist low latency networking. 
 
-[Negative Latency] (https://meanderful.blogspot.com/) by Matt Hurd. In the trenches low latency trading at Krx. 
+[Negative Latency](https://meanderful.blogspot.com/) by Matt Hurd. In the trenches low latency trading at Krx. 
