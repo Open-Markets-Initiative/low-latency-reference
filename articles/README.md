@@ -20,6 +20,8 @@
 
 ## Other Articles and Blogs
 
-[Software Leadership](http://joeduffyblog.com/) By Joe Duffy. Performance is one of the key pillars of software engineering, and is something that’s hard to do right, and sometimes even difficult to recognize. 
+[Software Leadership](http://joeduffyblog.com/) by Joe Duffy. Performance is one of the key pillars of software engineering, and is something that’s hard to do right, and sometimes even difficult to recognize. 
 
-[Sniper in Mahwah](https://sniperinmahwah.wordpress.com/) By Alexandre Laumonier. Blog on specialist low latency networking. 
+[Sniper in Mahwah](https://sniperinmahwah.wordpress.com/) by Alexandre Laumonier. Blog on specialist low latency networking. 
+
+[Negative Latency] (https://meanderful.blogspot.com/) by Matt Hurd. In the trenches low latency trading at Krx. 
