@@ -7,9 +7,11 @@
 [High Performance Trading](https://www.youtube.com/watch?v=NH1Tta7purM) by Carl Cook.  This talk describes how successful low latency trading systems can be developed in C++, demonstrating common coding techniques used to reduce execution times.
 
 [Compiler Explorer](https://www.youtube.com/watch?v=bSkpMdDe4g4) by Matt Godbolt.  Appreciate how hard your compiler works for you.
+ 
+[Performance and Memory](https://channel9.msdn.com/events/Build/2013/4-329) by Eric Brumer.  Memory is the elephant in the CPU.  This talk will examine the pitfalls of poor memory usage in C and C++, and will offer practical guidance for taking advantage of all the memory a CPU has to offer.
 
 ## Code Style Videos
 
 [C++ Seasoning](https://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning) by Sean Parent.  With the goal of correctness in mind, create simple, clear, and beautiful code. 
 
-[Modern C++](https://channel9.msdn.com/Events/Build/2014/2-661) by Herb Sutter.  A glimpse into the future of general purpose, performance-intensive, power-friendly, powerful native programming.  Includes one of the best demonstrations of the prefetch and the memory hierarchy on performance. 
+[Modern C++](https://channel9.msdn.com/Events/Build/2014/2-661) by Herb Sutter.  A glimpse into the future of general purpose, performance-intensive, power-friendly, powerful native programming.  Includes one of the best demonstrations of the effects of the prefetch and the memory hierarchy on performance. 
