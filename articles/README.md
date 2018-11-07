@@ -10,6 +10,8 @@
 
 [Linux Tunning](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/performance_tuning_guide/sect-red_hat_enterprise_linux-performance_tuning_guide-cpu-configuration_suggestions) by Christian Leber et al. Provides examples of how the available can be used to solve processor related performance problems in Linux.
 
+[Compilers](https://kristerw.blogspot.com/) by Krister Walfridsson.  Random thoughts on programming languages, compilers, operating systems, etc.
+
 ## Code Style Articles and Blogs
 
 [Fluent C++](http://www.fluentcpp.com/) by Jonathan Boccara. Excellent blog dedicated to using modern 'fluent' style C++.  Very good examples of strong types and the importance of knowing Stl.
