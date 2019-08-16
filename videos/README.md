@@ -10,6 +10,8 @@
  
 [Performance and Memory](https://channel9.msdn.com/events/Build/2013/4-329) by Eric Brumer.  Memory is the elephant in the CPU.  This talk will examine the pitfalls of poor memory usage in C and C++, and will offer practical guidance for taking advantage of all the memory a CPU has to offer.
 
+[Computer Architecture, C++, and High Performance](https://www.youtube.com/watch?v=fMvO0Mcq894) by Matt Dziubinski.  This talk considers the properties of code which can make it either friendly -- or hostile -- to a modern microprocessor.
+
 ## Code Style Videos
 
 [C++ Seasoning](https://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning) by Sean Parent.  With the goal of correctness in mind, create simple, clear, and beautiful code. 
