@@ -1,4 +1,4 @@
-## Latency Reference Links
+## OMI Latency Reference Links
 
 [Latency Chart](https://gist.github.com/hellerbarde/2843375) by Peter Norvig and Jeff Dean.  Latency numbers every programmer should know.
 
@@ -10,3 +10,4 @@
 
 [Latency Lab](https://github.com/Open-Markets-Initiative/latency-lab) by Omi.  Composable tools for automated networked application latency measurement.
 
+[STAC](https://www.stacresearch.com) by STAC Benchmark Council.  Over 350 financial institutions and more than 50 vendors whose purpose is to develop technology benchmark standards that are useful to financial organizations.
