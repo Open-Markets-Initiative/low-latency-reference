@@ -12,6 +12,8 @@
 
 [Computer Architecture, C++, and High Performance](https://www.youtube.com/watch?v=fMvO0Mcq894) by Matt Dziubinski.  This talk considers the properties of code which can make it either friendly -- or hostile -- to a modern microprocessor.
 
+[Low Latency DevOps](https://www.youtube.com/watch?v=z5AAA3_iBTU) by Adam Lenders. Talk about low-latency neteworking, linux and jitter.  
+
 ## Code Style Videos
 
 [C++ Seasoning](https://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning) by Sean Parent.  With the goal of correctness in mind, create simple, clear, and beautiful code. 
