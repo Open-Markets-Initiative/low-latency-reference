@@ -2,7 +2,7 @@
 
 [Linux Tuning](https://github.com/Open-Markets-Initiative/latency-reference/blob/master/pdfs/linux-tunning.pdf) by Milan Navrátil et al.  A comprehensive guide to optimizing the various subsystems that make up Red Hat Enterprise Linux 7. Guide also outlines the available performance monitoring and tuning tools.
 
-[Optimizing C++](https://github.com/Open-Markets-Initiative/latency-reference/blob/master/pdfs/high-frequency-trading.pdf)By Agner Fog. Optimizing software in C++ An optimization guide for Windows, Linux and Mac platforms 
+[Optimizing C++](https://github.com/Open-Markets-Initiative/latency-reference/blob/master/pdfs/optimizing-cpp.pdf)By Agner Fog. Optimizing software in C++ An optimization guide for Windows, Linux and Mac platforms 
  
 ## Computation/Architecture Pdfs
  
