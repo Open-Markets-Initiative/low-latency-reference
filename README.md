@@ -1,8 +1,8 @@
 # Omi Latency Reference
 
-A repository of articles, blogs, [books](https://github.com/Open-Markets-Initiative/latency-reference/tree/main/books "Omi Latency Reference Books"), [videos](https://github.com/Open-Markets-Initiative/latency-reference/tree/main/videos "Omi Latency Reference Videos") and other information for developing low latency and/or high bandwidth applications
+A repository of [articles](https://github.com/Open-Markets-Initiative/latency-reference/tree/main/articles "Omi Latency Reference Articles"), [books](https://github.com/Open-Markets-Initiative/latency-reference/tree/main/books "Omi Latency Reference Books"), [videos](https://github.com/Open-Markets-Initiative/latency-reference/tree/main/videos "Omi Latency Reference Videos") and other information for developing low latency and/or high bandwidth applications
 
-We are always on the lookout for new resources on the topics of high performance, low latency and/or high bandwidth computing.  Please add any suggestions as an issue. 
+We are always on the lookout for new resources on the topics of high performance, low latency and/or high bandwidth computing.  Please add any suggestions as an [issue](https://github.com/Open-Markets-Initiative/latency-reference/issues "Omi Latency Reference Issue"). 
 
 ## Open Markets Initiative
 
