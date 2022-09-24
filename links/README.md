@@ -1,4 +1,4 @@
-## OMI Latency Reference Links
+## Omi Latency Reference Links
 
 [Latency Chart](https://gist.github.com/hellerbarde/2843375) by Peter Norvig and Jeff Dean.  Latency numbers every programmer should know.
 
