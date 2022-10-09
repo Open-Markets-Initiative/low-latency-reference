@@ -14,6 +14,8 @@
 
 [Low Latency DevOps](https://www.youtube.com/watch?v=z5AAA3_iBTU) by Adam Lenders. Talk about low-latency neteworking, linux and jitter.  
 
+[Microbenchmarking C++ Code](https://www.youtube.com/watch?v=Czr5dBfs72U) by David Gross. Talk about microbenchmarking C++ code techniques, counting nanoseconds.  
+
 ## Code Style Videos
 
 [C++ Seasoning](https://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning) by Sean Parent.  With the goal of correctness in mind, create simple, clear, and beautiful code. 
