@@ -16,7 +16,7 @@
 
 [Low Latency DevOps](https://www.youtube.com/watch?v=z5AAA3_iBTU) by Adam Lenders. Talk about low-latency neteworking, linux and jitter.  
 
-[Designing Low Latency Systems](https://https://www.youtube.com/watch?v=8uAW5FQtcvE) by David Gross. How to translate our knowledge about the CPU and hardware into C++? How to use multiple CPU cores, handle concurrency issues and cost, and stay fast?  
+[Designing Low Latency Systems](https://www.youtube.com/watch?v=8uAW5FQtcvE) by David Gross. How to translate our knowledge about the CPU and hardware into C++? How to use multiple CPU cores, handle concurrency issues and cost, and stay fast?  
 
 ## Code Style Videos
 
