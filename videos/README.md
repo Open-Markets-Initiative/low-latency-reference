@@ -10,11 +10,13 @@
  
 [Performance and Memory](https://www.youtube.com/watch?v=Ri8NnOgIVMc) by Eric Brumer.  Memory is the elephant in the CPU.  This talk will examine the pitfalls of poor memory usage in C and C++, and will offer practical guidance for taking advantage of all the memory a CPU has to offer.
 
+[Microbenchmarking C++ Code](https://www.youtube.com/watch?v=Czr5dBfs72U) by David Gross. Talk about microbenchmarking C++ code techniques, counting nanoseconds.  
+
 [Computer Architecture, C++, and High Performance](https://www.youtube.com/watch?v=fMvO0Mcq894) by Matt Dziubinski.  This talk considers the properties of code which can make it either friendly -- or hostile -- to a modern microprocessor.
 
 [Low Latency DevOps](https://www.youtube.com/watch?v=z5AAA3_iBTU) by Adam Lenders. Talk about low-latency neteworking, linux and jitter.  
 
-[Microbenchmarking C++ Code](https://www.youtube.com/watch?v=Czr5dBfs72U) by David Gross. Talk about microbenchmarking C++ code techniques, counting nanoseconds.  
+[Designing Low Latency Systems](https://https://www.youtube.com/watch?v=8uAW5FQtcvE) by David Gross. How to translate our knowledge about the CPU and hardware into C++? How to use multiple CPU cores, handle concurrency issues and cost, and stay fast?  
 
 ## Code Style Videos
 
