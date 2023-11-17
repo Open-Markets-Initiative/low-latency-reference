@@ -13,3 +13,6 @@
 [Lmax Disruptor](https://github.com/Open-Markets-Initiative/latency-reference/blob/master/pdfs/lmax-disruptor.pdf) by Martin Thompson et al.  High performance alternative to bounded queues.
 
 [High Frequency Trading](https://github.com/Open-Markets-Initiative/latency-reference/blob/master/pdfs/high-frequency-trading.pdf) by Christian Leber et al.  Application specific hardware for accelerating High Frequency Trading applications optimized to achieve the lowest possible latency for interpreting market data feeds and hence enable minimal round-trip times for executing electronic stock trades.
+
+[SeqLocks](https://github.com/Open-Markets-Initiative/latency-reference/blob/master/pdfs/seq-locks.pdf) by Hans Boehm.  Seqlocks are an important synchronization mechanism and represent a significant improvement over
+conventional reader-writer locks in some contexts
