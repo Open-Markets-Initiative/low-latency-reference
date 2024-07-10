@@ -4,6 +4,9 @@
 
 [Optimizing C++](https://github.com/Open-Markets-Initiative/latency-reference/blob/master/pdfs/optimizing-cpp.pdf) by Agner Fog. Optimizing software in C++. An optimization guide for Windows, Linux and Mac platforms.
  
+[Hft Design Patterns](https://github.com/Open-Markets-Initiative/latency-reference/blob/master/pdfs/hft-design-patterns) by Paul Bilokon and Burak Gunduz. This work aims to bridge the existing knowledge gap in the optimization of latency-criticalcode, specifically focusing on high-frequency trading (HFT) systems.
+ code, specifically focusing on high-frequency trading (HFT) systems
+ 
 ## Computation/Architecture Pdfs
  
 [C++ Compiler Optimizations](https://github.com/Open-Markets-Initiative/latency-reference/blob/master/pdfs/optimizations-in-cpp-compiler.pdf) by Matt Godbolt.  This article introduces some compiler and code generation concepts, and includes examples of a few impressive compiler transformations and optimizations.
