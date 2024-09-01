@@ -21,3 +21,7 @@
 
 [SeqLocks](https://github.com/Open-Markets-Initiative/latency-reference/blob/master/pdfs/seq-locks.pdf) by Hans Boehm.  Seqlocks are an important synchronization mechanism and represent a significant improvement over
 conventional reader-writer locks in some contexts
+
+## Exchange Architecture Pdfs
+
+[Eurex Trading System Dynamics](https://github.com/Open-Markets-Initiative/latency-reference/blob/master/pdfs/eurex-trading-system-dynamics.pdf) by Sergej Teverovski, et al.  This presentation covers T7 exchange architecture time stamping, and methods for monitoring latency.  Includes analysis and explaination of speculative triggering.
