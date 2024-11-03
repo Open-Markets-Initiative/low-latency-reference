@@ -1,9 +1,5 @@
 ## Optimization Videos
 
-[Lmax Disruptor](https://www.youtube.com/watch?v=DCdGlxBbKU4) by Trisha Gee & Mike Barker.  Using the Disruptor as an example, this talk explains some of the more detailed and less understood areas of concurrency, such as memory barriers and cache coherency. 
-
-[Fastware](https://www.youtube.com/watch?v=AxnotgLql0k) by Andrei Alexandrescu.  Teaching how to write fast code, in the context of modern hardware.
-
 [High Performance Trading](https://www.youtube.com/watch?v=NH1Tta7purM) by Carl Cook.  This talk describes how successful low latency trading systems can be developed in C++, demonstrating common coding techniques used to reduce execution times.
 
 [Compiler Explorer](https://www.youtube.com/watch?v=bSkpMdDe4g4) by Matt Godbolt.  Appreciate how hard your compiler works for you.
@@ -17,6 +13,13 @@
 [Low Latency DevOps](https://www.youtube.com/watch?v=z5AAA3_iBTU) by Adam Lenders. Talk about low-latency neteworking, linux and jitter.  
 
 [Designing Low Latency Systems](https://www.youtube.com/watch?v=8uAW5FQtcvE) by David Gross. How to translate our knowledge about the CPU and hardware into C++? How to use multiple CPU cores, handle concurrency issues and cost, and stay fast?  
+
+[Next-Gen C++ Optimization](https://www.youtube.com/watch?v=wGSSUSeaLgA) by Fedor Pikus. Unlocking Modern CPU Power - Next-Gen C++ Optimization Techniques.
+
+[Lmax Disruptor](https://www.youtube.com/watch?v=DCdGlxBbKU4) by Trisha Gee & Mike Barker.  Using the Disruptor as an example, this talk explains some of the more detailed and less understood areas of concurrency, such as memory barriers and cache coherency. 
+
+[Fastware](https://www.youtube.com/watch?v=AxnotgLql0k) by Andrei Alexandrescu.  Teaching how to write fast code, in the context of modern hardware.
+
 
 ## Code Style Videos
 
